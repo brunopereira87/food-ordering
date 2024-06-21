@@ -20,13 +20,13 @@ const products = [
       'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/food/peperoni.png',
     price: 13.47,
   },
-  {
-    id: 4,
-    name: 'Margarita',
-    image:
-      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/food/margarita.png',
-    price: 9.9,
-  },
+  // {
+  //   id: 4,
+  //   name: 'Margarita',
+  //   image:
+  //     'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/food/margarita.png',
+  //   price: 9.9,
+  // },
   {
     id: 5,
     name: 'Pacific Veggie',
